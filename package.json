@@ -1,6 +1,6 @@
 {
   "name": "react-native-appsflyer",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "React Native Appsflyer plugin",
   "main": "index.js",
   "scripts": {
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AppsFlyerSDK/react-native-appsflyer.git"
+    "url": "https://github.com/netbeast/react-native-appsflyer.git"
   },
   "author": "Appsflyer / Maxim Shoustin",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/AppsFlyerSDK/react-native-appsflyer/blob/master/LICENSE"
+    "url": "https://github.com/netbeast/react-native-appsflyer/blob/master/LICENSE"
   },
-  "homepage": "https://github.com/AppsFlyerSDK/react-native-appsflyer#readme",
+  "homepage": "https://github.com/netbeast/react-native-appsflyer#readme",
   "keywords": [
     "react-native",
     "react",
@@ -28,6 +28,6 @@
     "appsflyer"
   ],
   "bugs": {
-    "url": "https://github.com/AppsFlyerSDK/react-native-appsflyer/issues"
+    "url": "https://github.com/netbeast/react-native-appsflyer/issues"
   }
 }
